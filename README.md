@@ -14,6 +14,29 @@
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lakshya177&layout=compact&theme=dark" />
 
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Lakshya177&show_icons=true&theme=dark)
+
+## 💻 Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya177&layout=compact&theme=dark)
+
+## 🚀 Tech Stack
+
+### 🎨 Frontend
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple)
+
+### ⚙️ Backend
+![Java](https://img.shields.io/badge/Java-Backend-red)
+![JSP](https://img.shields.io/badge/JSP-Server-green)
+![Servlet](https://img.shields.io/badge/Servlet-Java-blue)
+![PHP](https://img.shields.io/badge/PHP-Backend-purple)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Lakshya177&icon=0&color=0)](https://visitcount.itsvg.in)
