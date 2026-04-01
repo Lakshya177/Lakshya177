@@ -1,4 +1,7 @@
 ## Hi there 👋
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Lakshya177&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lakshya177&layout=compact&theme=dark)
 
 <!--
 **Lakshya177/Lakshya177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
