@@ -12,7 +12,7 @@
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=Lakshya177&show_icons=true&theme=dark&count_private=true)
 
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lakshya177&layout=compact&theme=dark)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lakshya177&layout=compact&theme=dark" />
 
 
 ---
