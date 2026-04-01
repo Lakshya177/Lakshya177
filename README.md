@@ -15,7 +15,15 @@
 ![](https://streak-stats.demolab.com?user=Lakshya177&theme=dark)
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lakshya177&layout=donut&theme=dark&langs_count=6)
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lakshya177&layout=donut&theme=dark&langs_count=6)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-Database%20Connectivity-blue?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Swing](https://img.shields.io/badge/Java%20Swing-GUI-orange?style=for-the-badge)
+![Servlet](https://img.shields.io/badge/Servlet-Java-green?style=for-the-badge)
+![JSP](https://img.shields.io/badge/JSP-Java-red?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Lakshya177&icon=0&color=0)](https://visitcount.itsvg.in)
